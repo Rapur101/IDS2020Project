@@ -14,7 +14,7 @@ The project consists of 3 Jupyter Notebook files, which contain archive the foll
 ### Code information
 
 #### Versions:
-Python 3.8.3
+Python 3.8.3  
 Jupyter Notebook:  6.0.3
 
 - In order to run the code the user must have Jupyter Notebook and Python 3 installed.  
