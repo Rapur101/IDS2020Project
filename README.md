@@ -17,7 +17,7 @@ The project consists of 3 Jupyter Notebook files, which contain archive the foll
 Python 3.8.3
 Jupyter Notebook:  6.0.3
 
-In order to run the code the user must have Jupyter Notebook and Python 3 installed.  
-In the directory, where .ipnyb files are located, needs to be a directory called 'data'. In it needs to be the main data file arvel_m1-300920.xlsx.  
-Data cleanup.ipynb should be run first using Jupyter Notebook, it creates cleanedData.csv file, which is used by the other two .ipynb files.  
-After that the other 2 files (Data mining.ipynb, CO2 prediction model.ipynb) can be successfully run.
+- In order to run the code the user must have Jupyter Notebook and Python 3 installed.  
+- In the directory, where .ipnyb files are located, needs to be a directory called 'data'. In it needs to be the main data file arvel_m1-300920.xlsx.  
+- Data cleanup.ipynb should be run first using Jupyter Notebook, it creates cleanedData.csv file, which is used by the other two .ipynb files.  
+- After that the other 2 files (Data mining.ipynb, CO2 prediction model.ipynb) can be successfully run.
